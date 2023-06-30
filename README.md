@@ -1,6 +1,6 @@
 # Android Ebook App with Firebase Backend with Source Code
 
-https://youtu.be/AJeajWl5UaM
+
 ## ✨ Demo
 |  Main Screen  |
 |:-:|
