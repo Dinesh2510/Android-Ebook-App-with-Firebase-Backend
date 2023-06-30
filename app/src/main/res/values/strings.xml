@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="about_us">About Us</string>
+    <string name="about_us_developer">Developer</string>
+    <string name="about_us_developer_name">PixelDev.in</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">support@pixeldev.in</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">Fire PDF</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_nav_title_1">Topics</string>
+    <string name="bottom_nav_title_2">Category</string>
+
+    <string name="default_web_client_id">112074742479-3av0f92qin3uti7bbg3to0qn146laqqg.apps.googleusercontent.com</string>
+    <string name="downloading">Downloading...</string>
+
+    <string name="firebase_database_url">https://firepdf-4c1d6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">112074742479</string>
+    <string name="google_api_key">AIzaSyDSJwmzDNIrmX_KrN_fTyWbDBKDulI1VOg</string>
+    <string name="google_app_id">1:112074742479:android:ecd0253bbf0ea0547f75ba</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDSJwmzDNIrmX_KrN_fTyWbDBKDulI1VOg</string>
+    <string name="google_storage_bucket">radioapp-bddb0.appspot.com</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="image">image</string>
+    <string name="image_content">image</string>
+    <string name="item_view_role_description">Tab</string>
+
+    <string name="native_body">Body</string>
+    <string name="native_headline">Headline</string>
+    <string name="native_media_view">Media View</string>
+    <string name="no_data_msg">There are no data at the moment</string>
+    <string name="no_internet_connection">No internet connection found. \10 Check your connection</string>
+
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="project_id">radioapp-bddb0</string>
+    <string name="retry">Retry</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="share_app_text">Let me recommend you this application</string>
+    <string name="something_went_wrong">Something Went Wrong!</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="watermark_label_prefix">AdMob - </string>
+    <string name="data_not_found_in_db">Data not found in DB!</string>
+</resources>
