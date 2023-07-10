@@ -1,0 +1,233 @@
+{
+  "machine_data": [
+    {
+      "category_id": "1",
+      "title": "Machine Learning",
+      "topiclist": [
+        {
+          "content": "Machine Learning",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://icseindia.org/document/sample.pdf",
+          "pdf_id": "1",
+          "title": "Machine Learning - Introduction"
+        },
+        {
+          "content": "Machine Learning",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://icseindia.org/document/sample.pdf",
+          "pdf_id": "2",
+          "title": "Machine Learning - Concepts"
+        },
+        {
+          "content": "Machine Learning",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://icseindia.org/document/sample.pdf",
+          "pdf_id": "3",
+          "title": "Environment Setup  "
+        }
+      ]
+    },
+    {
+      "category_id": "2",
+      "title": "AI"
+    },
+    {
+      "category_id": "3",
+      "title": "IOT  ",
+      "topiclist": [
+        {
+          "content": "IOT ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4AaXA_8OgWiMwO2sRYEMVxnmsYxHePWzmw&usqp=CAU",
+          "link": "https://www.tutorialspoint.com/internet_of_things/internet_of_things_tutorial.pdf",
+          "pdf_id": "1",
+          "title": "IOT  - Introduction"
+        },
+        {
+          "content": "IOT ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4AaXA_8OgWiMwO2sRYEMVxnmsYxHePWzmw&usqp=CAU",
+          "link": "https://www.tutorialspoint.com/internet_of_things/internet_of_things_tutorial.pdf",
+          "pdf_id": "2",
+          "title": "IOT  - Concepts"
+        },
+        {
+          "content": "IOT ",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4AaXA_8OgWiMwO2sRYEMVxnmsYxHePWzmw&usqp=CAU",
+          "link": "https://www.tutorialspoint.com/internet_of_things/internet_of_things_tutorial.pdf",
+          "pdf_id": "3",
+          "title": "Environment Setup  "
+        }
+      ]
+    },
+    {
+      "category_id": "4",
+      "title": "Android",
+      "topiclist": [
+        {
+          "content": "Android ",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://www.tutorialspoint.com/android/android_tutorial.pdf",
+          "pdf_id": "1",
+          "title": "Android  - Introduction"
+        },
+        {
+          "content": "Android ",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://www.tutorialspoint.com/android/android_tutorial.pdf",
+          "pdf_id": "2",
+          "title": "Android  - Concepts"
+        },
+        {
+          "content": "Android ",
+          "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+          "link": "https://www.tutorialspoint.com/android/android_tutorial.pdf",
+          "pdf_id": "3",
+          "title": "Android Setup  "
+        }
+      ]
+    },
+    {
+      "category_id": "5",
+      "title": "Data Science"
+    },
+    {
+      "category_id": "6",
+      "title": "NPL"
+    },
+    {
+      "category_id": "7",
+      "title": "Android"
+    },
+    {
+      "category_id": "8",
+      "title": "Algorithms"
+    }
+  ],
+  "topics": [
+    {
+      "content": "Machine Learning (ML)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/1200px-Google_Images_2015_logo.svg.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "1",
+      "title": "Machine Learning - Introduction"
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "2",
+      "title": "Machine Learning - Concepts"
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "3",
+      "title": "Environment Setup  "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "4",
+      "title": "Types of Learning "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "5",
+      "title": "Data Pre-processing,  Analysis and Visualization "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "6",
+      "title": "Training Data and  Test Data "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "7",
+      "title": "Techniques "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "8",
+      "title": "Algorithms"
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "9",
+      "title": "Application "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "10",
+      "title": "Supervised And Unsupervised Learning"
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "11",
+      "title": " Regression "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "12",
+      "title": "Decision Tree Algorithm "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "13",
+      "title": "Support Vector Machines (SVM)"
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "14",
+      "title": "Naïve Bayes Algorithm "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "15",
+      "title": "KNN (K-Nearest Neighbours) "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "16",
+      "title": "K-Means "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "17",
+      "title": "Random Forest "
+    },
+    {
+      "content": "Machine Learning",
+      "image": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png",
+      "link": "https://icseindia.org/document/sample.pdf",
+      "pdf_id": "18",
+      "title": "Dimensionality Reduction Algorithm"
+    }
+  ]
+}
